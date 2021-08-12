@@ -103,7 +103,7 @@ Tested with GCC, MinGW, XCode and Visual Studio 2017.
 
 You can report a problem in English or Spanish.
 
-> Link to GitHub: <https://github.com/adricoin2010/UTF8-Iterator>
+> Link to GitHub: <https://github.com/adrianwk94/bds>
 
 ## License
 
